@@ -43,7 +43,6 @@ Open `spam_mail_project.ipynb` and execute the cells sequentially.
 5. Evaluate the model's performance.
 
 ## 👥 Contributors
-- Add your name and team members' names here.
+Nabil hasan Mahin 
+Zonayed Al Mahbub
 
-## 📄 License
-This project is created for educational and academic purposes.
